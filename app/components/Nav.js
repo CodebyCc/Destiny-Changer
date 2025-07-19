@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import MobileNav from "./MobileNav";
-import logo from "../logo.png";
+import logo from "../icon.png";
 
 const Nav = async () => {
   // console.log(session);

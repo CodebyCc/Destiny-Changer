@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import logo from "../logo.png";
+import logo from "../icon.png";
 import React, { useState } from "react";
 import { MdMenu, MdClose } from "react-icons/md";
 
