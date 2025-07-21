@@ -48,14 +48,14 @@ function Footer() {
         <div className="flex ">
           <Link
             className="px-2"
-            href="https://www.instagram.com/emvelnatural?igsh=MWg2YmY1em54bGt4bQ=="
+            href="https://www.instagram.com/dctravelandtour?igsh=a2xzZW90emE1c3N4&utm_source=qr"
             target="_blank"
           >
             <FaInstagram size={30} />
           </Link>
           <Link
             className="px-2"
-            href="https://www.facebook.com/share/1Hcr3mgbFq"
+            href="https://www.facebook.com/share/1HfKz6p9qo/?mibextid=wwXIfr"
             target="_blank"
           >
             <FaFacebook size={30} spacing={40} />
@@ -68,7 +68,7 @@ function Footer() {
           </Link> */}
           <Link
             className="px-2"
-            href="https://www.tiktok.com/@emvel_royal?_t=ZS-8ukqTVyQySA&_r=1"
+            href="https://www.tiktok.com/@dctravelandtour?_t=ZM-8yDhMmw2x6L&_r=1"
             target="_blank"
           >
             <FaTiktok size={30} spacing={40} />

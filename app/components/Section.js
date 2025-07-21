@@ -24,8 +24,8 @@ function Section() {
             <span className="text-yellow-600">Tour</span>
           </h1>
         </div>
-        <p className="text-2xl leading-relaxed mb-6 motion-preset-slide-down-lg ">
-          Your No1 Stop for Travel Assitance Solutions in Ghana
+        <p className="text-md leading-relaxed mb-6 motion-preset-slide-down-lg ">
+          Your No1 Stop for Travel Assitance Solutions in Ghana.
           {/* <span className="text-blue-950"> */} 𝐓𝐇𝐄 MOST TRUSTED TRAVEL
           AGENTS {/* </span> */}
         </p>
