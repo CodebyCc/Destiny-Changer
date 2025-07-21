@@ -36,7 +36,7 @@ function Footer() {
         <div>
           <h3 className="text-lg font-semibold">Contact Us</h3>
           <p className="text-gray-400 mt-2">
-            Email:info@destinychangertravelandtours.com
+            Email:info@destinychangertravelandtour.com
           </p>
           <p className="text-gray-400">
             Phone : +2332070110170 / +233538536079
