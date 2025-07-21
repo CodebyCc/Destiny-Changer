@@ -25,9 +25,8 @@ function Section() {
           </h1>
         </div>
         <p className="text-md leading-relaxed mb-6 motion-preset-slide-down-lg ">
-          Your No1 Stop for Travel Assitance Solutions in Ghana.
-          {/* <span className="text-blue-950"> */} 𝐓𝐇𝐄 MOST TRUSTED TRAVEL
-          AGENTS {/* </span> */}
+          Your No1 Stop for Travel Assitance Solutions in Ghana. 𝐓𝐇𝐄 MOST
+          TRUSTED TRAVEL AGENTS.
         </p>
         {/* <h1 className="text-8xl text-primary-50 mb-10 tracking-tight font-normal">
           Welcome to paradise.
